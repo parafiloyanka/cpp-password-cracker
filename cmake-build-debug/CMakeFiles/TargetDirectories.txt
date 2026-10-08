@@ -1,0 +1,3 @@
+/Users/alinaalekseeva/CLionProjects/untitled9/cmake-build-debug/CMakeFiles/untitled9.dir
+/Users/alinaalekseeva/CLionProjects/untitled9/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/alinaalekseeva/CLionProjects/untitled9/cmake-build-debug/CMakeFiles/rebuild_cache.dir
